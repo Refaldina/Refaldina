@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Refaldina]({header/github-header-refal.png})
+![Refaldina]({header/header-refal.png})
 
 <h1 align="left">Hi, I'm Refaldyno</h1>
 
