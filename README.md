@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Refaldina]({header/header-refal.png})
+
 <h1 align="left">Hi, I'm Refaldyno</h1>
 
 ###
